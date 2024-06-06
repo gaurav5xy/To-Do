@@ -41,5 +41,5 @@ npm run dev
 Run the development server: npm run dev This will start the development server and you can view the application at http://localhost:5173.
 - Build the project for production :
 ```bash
-npm run dev
+npm run build
 ```
